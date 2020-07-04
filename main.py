@@ -1,10 +1,30 @@
 import collections
+import numpy
 
 
 
 
 
 
+
+
+
+
+
+
+
+
+"""งง///////////////////                                            ////////////////////// """
+
+""" i=6
+while(i>0):
+    j=6
+    while(j>i):
+        print("*",end=' ')
+        j-=1
+    i-=1
+    print()
+ """
 
 
 """ for i in range(1,6):
