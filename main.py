@@ -4,10 +4,67 @@ import numpy
 
 
 
+l1 = (1,2,3,4)
+l2 = [1,2,3,4]
+lenl2 = len(l2)
+
+l2.append(5)
+
+print(lenl2)
+
+l2.insert(2,5)
+
+print(l2.index(4))
+print(l2)
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+""" 
+i = 6
+
+while (i > 0):
+    j = 6
+    while (j > i):
+        print("*", end='')
+        j-=1
+    i-=1
+    print()         
+
+
+ """
+
+
+
+
+
+
+
+
+
+
+
+""" 
+Collect = ['1','2']
+
+for i in Collect:
+    print(i)
+
+
+
+
+ """
 
 
 
